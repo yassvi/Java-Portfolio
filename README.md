@@ -131,7 +131,7 @@ npm install gh-pages --save-dev
 npm run deploy
 ```
 ### License
-MIT © Rachit Sharma
+MIT © Yasasvi N
 
 
 <!--
